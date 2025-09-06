@@ -1,0 +1,14 @@
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\bin\Debug\net9.0\solid-c#.exe
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\bin\Debug\net9.0\solid-c#.deps.json
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\bin\Debug\net9.0\solid-c#.runtimeconfig.json
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\bin\Debug\net9.0\solid-c#.dll
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\bin\Debug\net9.0\solid-c#.pdb
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.AssemblyInfoInputs.cache
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.AssemblyInfo.cs
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.csproj.CoreCompileInputs.cache
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.dll
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\refint\solid-c#.dll
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.pdb
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\solid-c#.genruntimeconfig.cache
+C:\Users\mcipr\Downloads\Ejemplo\solid-c#\obj\Debug\net9.0\ref\solid-c#.dll
